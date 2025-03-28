@@ -7,5 +7,7 @@
 - cp /root/ca/sub-ca/certs/sub-ca.crt /home/nisha/certificate/
 - cp /root/ca/server/certs/server.crt /home/nisha/certificate/
 - cp /root/ca/server/private/server.key /home/nisha/certificate/ 
+- mkdir -p /home/nisha/certificate
+
 
 
